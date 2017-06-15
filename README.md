@@ -10,7 +10,7 @@ Output sample:
 
 Setup screen:
 
-![GUI sample 1](https://github.com/samuelpf/AI-search-algorithms/blob/master/AI-Assignment-1/gui-example-2.png)
+![GUI sample 2](https://github.com/samuelpf/AI-search-algorithms/blob/master/AI-Assignment-1/gui-example-2.jpg)
 
 The main logic of the game is in the file AI-Assignment-1/ViewController.swift
 
