@@ -3,13 +3,13 @@
 //  Alpha-Beta Algorithms.
 //
 //  Created by Samuel Pineda.
-//  This code is only for demonstration purposes. 
+//  This code is only for demonstration purposes.
 //  All rights reserved.
 //
 
 import UIKit
 
-class SearchViewController: UIViewController, UITextFieldDelegate {
+class ViewController: UIViewController, UITextFieldDelegate {
     
     // Outlets for textFields and switch
     @IBOutlet weak var bField: UITextField!
@@ -108,13 +108,7 @@ class SearchViewController: UIViewController, UITextFieldDelegate {
         printConsoleTitle(str: "DONE")
     }
     
-    // Function for generating a fixed-width fixed-depth sample game tree.
-    // Paramenters:
-    // b: branching factor of the tree
-    // h: height of the tree
-    // v: node true value
-    // i: inaccuracy of the node (for simulating purposes)
-    // s: spread of child nodes
+    // Function for generating a fixed-width fixed-depth game tree
     func createTree(b: Int, h: Int, v: Int, i: Int, s: Int) -> Node {
         let newNode = Node(estimatedValue: v)
         
