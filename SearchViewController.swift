@@ -1,8 +1,10 @@
 //
 //  SWIFT Implementation of the Null Move Quiescence Search and
-//  Alpha-Beta Algorithms
+//  Alpha-Beta Algorithms.
 //
 //  Created by Samuel Pineda.
+//  This code is only for demonstration purposes. 
+//  All rights reserved.
 //
 
 import UIKit
