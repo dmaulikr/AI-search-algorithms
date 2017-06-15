@@ -6,11 +6,11 @@ This app allows to create sample game trees using the parameters provided in ord
 
 Output sample:
 
-![GUI sample 1](https://github.com/samuelpf/AI-search-algorithms/blob/master/AI-Assignment-1/GUI-sample-1.png)
+![GUI sample 1](https://github.com/samuelpf/AI-search-algorithms/blob/master/AI-Assignment-1/gui-example-1.png)
 
 Setup screen:
 
-![GUI sample 1](https://github.com/samuelpf/AI-search-algorithms/blob/master/AI-Assignment-1/GUI-sample-2.png)
+![GUI sample 1](https://github.com/samuelpf/AI-search-algorithms/blob/master/AI-Assignment-1/gui-example-2.png)
 
 The main logic of the game is in the file AI-Assignment-1/ViewController.swift
 
