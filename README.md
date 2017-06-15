@@ -2,7 +2,7 @@
 
 Swift implementation of the Null Move Quiescence Search and Alpha-Beta Algorithms.
 
-This app allows to create sample game trees using the parameters provided in order to compare the performance of two search algorithms: Null Move Quiescence Search and Alpha-Beta.
+This app allows to create sample game trees using the parameters provided in order to compare the performance of two search algorithms: Null Move Quiescence Search and Alpha-Beta. For this purpose 10 trees with a branching factor of 5 and height of 10 were created. As expected, Null Move Quiescence Search algorithm delivers a better accuracy but requires a greater number of static evaluations.
 
 Output sample:
 
